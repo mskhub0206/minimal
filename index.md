@@ -10,13 +10,21 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Header 1
+# Purpose
 
 I am doing AI and ML course via UPGRAD paltform.
 
-## Header 2
+# Data Science Portfolio
 
-Addimh text to display in the wesite
+---
+
+## Machine learning
+
+### Fraud Detection
+
+Fraud detection is a set of processes and analyses that allow businesses to identify and prevent unauthorised financial activity. This may include fraudulent credit card transactions, identity theft, cyber hacking, insurance scams and more.
+
+<center><img src="images/fraud_detection.jpg"/></center>
 
 ### Header 3
 
